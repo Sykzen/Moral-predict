@@ -1,2 +1,3 @@
-# Moral-predict
-Predict mortality in a hospital from dossier d'un patient
+# Mortality Prediction Challenge
+
+https://competitions.codalab.org/competitions/30715
